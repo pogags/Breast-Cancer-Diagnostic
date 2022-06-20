@@ -86,7 +86,8 @@ Of the 4 models produced via grid search, the **MLP optimized for Recall** and *
 
 ### Classification Threshold Tuning
 
-When making a classification these methods use the continous input variables to create a probability output variable. A probability over 0.5 is classified as 1, and under is classified as 0. Changing this threshold of 0.5 can greatly impact misclassifications. In this case, lowering the threshold will increase the number of false positives but decrease false negatives and improve recall. 
+When making a classification these methods use the continous input variables to create a probability output variable. A probability over 0.5 is classified as 1, and under is classified as 0. Changing this threshold of 0.5 can greatly impact misclassifications. In this case, lowering the threshold will increase the number of false positives but decrease false negatives and improve recall.  
+
 ![image](https://user-images.githubusercontent.com/60637235/174684434-0fbae403-bc0a-4fbb-9e0e-2d84eb4c354a.png)
 ![image](https://user-images.githubusercontent.com/60637235/174684443-0bd2df73-4f85-464b-aeeb-2c4705a17115.png)
 
