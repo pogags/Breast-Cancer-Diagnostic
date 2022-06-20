@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+pandas_profiling
+mpl_toolkits
+prettytable
+sklearn
