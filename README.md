@@ -1,2 +1,2 @@
 # Breast-Cancer-Diagnostic
-This repository contains the code and conclusions from a breast cancer machine learning project
+<sub><sup>For a full detailed report with more graphics, click [here](https://github.com/pogags/LifeExpectancy-FertilityRate-Regression/blob/main/Life%20Expectancy%20and%20Fertility%20Rates%20among%20nations.pdf)</sup></sub>
