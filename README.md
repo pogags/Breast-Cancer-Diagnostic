@@ -5,9 +5,9 @@
 The use of machine learning models in visual data fields is increasing, and healthcare is no exception. It is in the best interests of the patients, healthcare professionals, and insurance companies to make the most accurate diagnosis possible, and machine learning can be used as a powerful tool for that.
 
 
-## Dataset
+## Dataset and Purpose
 
-This dataset was given on Kaggle [here](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data) and describes digitized images of an FNA (Fine Needle Aspirate) of breast mass. FNA is a minimally invasive and cost-effective sampling that obtains tissues from a part of the body. The alternative to this a core biopsy, which provides more information but is more invasive, expensive, and takes longer to process. To improve medical outcomes for citizens, better access to healthcare is paramount. Better predictions with an FNA tissue sample could lead to cheaper tests and faster results with the same sensitivity as a Biopsy.
+This dataset was given on Kaggle [here](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data) and describes digitized images of a breast mass FNA (Fine Needle Aspirate). FNA is a minimally invasive and cost-effective sampling that obtains tissues from a part of the body. The alternative to this a core biopsy, which provides more information for analysis but is more invasive, expensive, and takes longer to process. To improve medical outcomes for citizens, better access to healthcare is paramount. Better predictions with an FNA tissue sample could lead to cheaper tests and faster results with the same sensitivity as a Biopsy, so with an examined Data Science approach we can improve odds for patients by improving the accuracey of FNA.
 
 ### Features
 
